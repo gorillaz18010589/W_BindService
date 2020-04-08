@@ -1,0 +1,2 @@
+rootProject.name='BindService'
+include ':app'
